@@ -1,3 +1,5 @@
+<img width="617" alt="Screenshot 2024-01-27 at 3 03 59 PM" src="https://github.com/akshayark97/react-golang-basic-todo/assets/39210915/faeed44d-8aa7-4bf7-8a03-0d121449468c">
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
